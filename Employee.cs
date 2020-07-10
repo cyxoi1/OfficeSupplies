@@ -64,7 +64,7 @@ namespace OfficeSupplies
 			//if (password.ToString().Length > 1 && password.ToString().Length < 9)
 				password = value;
 				//else
-					//MessageBox.Show("Password out of range");
+					//MessageBox.Show("Password out of range"); //form validation
 
 			}
 		}
